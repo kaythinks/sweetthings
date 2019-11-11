@@ -1,0 +1,14 @@
+{
+  "name": "@kaythinks/sweetthings",
+  "version": "1.0.0",
+  "description": "This package will randomly generate a sweet thought to smoothen your day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sweetthings"
+  ],
+  "author": "Kay Odole",
+  "license": "MIT"
+}
